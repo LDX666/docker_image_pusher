@@ -8,3 +8,4 @@ bitnami/minio
 bitnami/minio-client
 mongo
 wordpress
+node
